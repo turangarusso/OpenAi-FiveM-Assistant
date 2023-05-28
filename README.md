@@ -1,0 +1,1 @@
+# OpenAi FiveM Assistant
