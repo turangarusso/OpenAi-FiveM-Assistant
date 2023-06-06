@@ -122,5 +122,9 @@ MIT
 
 IT'S MANDATORY TO GIVE CREDDITS IF YOU REUSE THE CODE!
 DO NOT CHANGE CREDITS INSIDE THE CODE.
+
+You need to add credis like:
+"Copyright Ruxo, https://github.com/turangarusso/"
+Thank you
 ---
 
