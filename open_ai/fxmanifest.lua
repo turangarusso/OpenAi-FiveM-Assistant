@@ -8,11 +8,7 @@ description 'Ruxo OpenAi'
 
 shared_scripts{
     "@es_extended/imports.lua",
-} 
-
-client_scripts {
-    'client/client.lua',
-} 
+}
 
 server_scripts {
     '@mysql-async/lib/MySQL.lua',	
