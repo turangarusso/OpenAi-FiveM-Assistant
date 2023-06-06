@@ -1,8 +1,6 @@
 GPT = {}
 -- don't touch, made by Ruxo for Evolve RP
 
-ESX = exports["es_extended"]:getSharedObject()
-
 RegisterCommand("chatgpt", function(_src, arg)
 
 -- API endpoint URL
