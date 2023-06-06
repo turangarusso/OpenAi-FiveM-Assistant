@@ -1,21 +1,8 @@
-fx_version 'adamant'
+fx_version 'cerulean'
 
 game 'gta5'
 name 'ruxo_openai'
 version '1.5'
 description 'Ruxo OpenAi'
 
-
-shared_scripts{
-    "@es_extended/imports.lua",
-}
-
-server_scripts {
-    '@mysql-async/lib/MySQL.lua',	
-    'server/server.lua',
-} 
-
-dependencies {
-	'es_extended'
-}
-
+server_script 'server/server.lua'
