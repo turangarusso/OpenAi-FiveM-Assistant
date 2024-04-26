@@ -26,6 +26,7 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#credits">Credits</a> •
+  <a href="#docs">Docs</a> •
   <a href="#license">License</a>
 </p>
 
@@ -109,6 +110,9 @@ To get response text, you can use:
 
 > You can found more information on: https://platform.openai.com/docs/api-reference/completions/create
 
+## Docs
+
+<a href="https://ruxo.gitbook.io/ruxo-shop/free-scripts/openai-fivem-assistant">Ruxo Docs</a> 
 
 ## Credits
 
